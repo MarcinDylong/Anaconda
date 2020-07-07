@@ -1,0 +1,287 @@
+index,date,home_team,away_team,home_score,away_score,city,country,neutral
+4731,1960,Czechoslovakia,Russia,0,3,Marseille,France,True
+4732,1960,France,Yugoslavia,4,5,Paris,France,False
+4734,1960,France,Czechoslovakia,0,2,Marseille,France,False
+4739,1960,Russia,Yugoslavia,2,1,Paris,France,True
+5628,1964,Denmark,Russia,0,3,Barcelona,Spain,True
+5629,1964,Spain,Hungary,2,1,Madrid,Spain,False
+5632,1964,Hungary,Denmark,3,1,Barcelona,Spain,True
+5633,1964,Spain,Russia,2,1,Madrid,Spain,False
+6789,1968,England,Yugoslavia,0,1,Florence,Italy,True
+6790,1968,Italy,Russia,0,0,Naples,Italy,False
+6792,1968,England,Russia,2,0,Rome,Italy,True
+6793,1968,Italy,Yugoslavia,1,1,Rome,Italy,False
+6796,1968,Italy,Yugoslavia,2,0,Rome,Italy,False
+8198,1972,Belgium,Germany,1,2,Antwerp,Belgium,False
+8200,1972,Hungary,Russia,0,1,Brussels,Belgium,True
+8207,1972,Belgium,Hungary,2,1,Liège,Belgium,False
+8214,1972,Germany,Russia,3,0,Brussels,Belgium,True
+9749,1976,Czechoslovakia,Netherlands,3,1,Zagreb,Yugoslavia,True
+9752,1976,Yugoslavia,Germany,2,4,Belgrade,Yugoslavia,False
+9753,1976,Yugoslavia,Netherlands,2,3,Zagreb,Yugoslavia,False
+9754,1976,Czechoslovakia,Germany,2,2,Belgrade,Yugoslavia,True
+11276,1980,Czechoslovakia,Germany,0,1,Rome,Italy,True
+11277,1980,Netherlands,Greece,1,0,Naples,Italy,True
+11278,1980,Belgium,England,1,1,Turin,Italy,True
+11280,1980,Italy,Spain,0,0,Milan,Italy,False
+11285,1980,Germany,Netherlands,3,2,Naples,Italy,True
+11286,1980,Greece,Czechoslovakia,1,3,Rome,Italy,True
+11288,1980,Belgium,Spain,2,1,Milan,Italy,True
+11291,1980,Italy,England,1,0,Turin,Italy,False
+11293,1980,Greece,Germany,0,0,Turin,Italy,True
+11294,1980,Netherlands,Czechoslovakia,1,1,Milan,Italy,True
+11297,1980,Italy,Belgium,0,0,Rome,Italy,False
+11298,1980,Spain,England,1,2,Naples,Italy,True
+11301,1980,Italy,Czechoslovakia,1,1,Naples,Italy,False
+11302,1980,Belgium,Germany,1,2,Rome,Italy,True
+13071,1984,France,Denmark,1,0,Paris,France,False
+13072,1984,Belgium,Yugoslavia,2,0,Lens,France,True
+13074,1984,Germany,Portugal,0,0,Strasbourg,France,True
+13075,1984,Romania,Spain,1,1,Saint-Étienne,France,True
+13078,1984,Denmark,Yugoslavia,5,0,Lyon,France,True
+13079,1984,France,Belgium,5,0,Nantes,France,False
+13082,1984,Germany,Romania,2,1,Lens,France,True
+13084,1984,Portugal,Spain,1,1,Marseille,France,True
+13087,1984,Denmark,Belgium,3,2,Strasbourg,France,True
+13088,1984,France,Yugoslavia,3,2,Saint-Étienne,France,False
+13089,1984,Germany,Spain,0,1,Paris,France,True
+13091,1984,Portugal,Romania,1,0,Nantes,France,True
+13095,1984,France,Portugal,3,2,Marseille,France,False
+13097,1984,Denmark,Spain,1,1,Lyon,France,True
+13101,1984,France,Spain,2,0,Paris,France,False
+14978,1988,Germany,Italy,1,1,Düsseldorf,Germany,False
+14981,1988,Denmark,Spain,2,3,Hanover,Germany,True
+14982,1988,England,Republic of Ireland,0,1,Stuttgart,Germany,True
+14983,1988,Netherlands,Russia,0,1,Cologne,Germany,True
+14985,1988,Germany,Denmark,2,0,Gelsenkirchen,Germany,False
+14986,1988,Italy,Spain,1,0,Frankfurt am Main,Germany,True
+14989,1988,England,Netherlands,1,3,Düsseldorf,Germany,True
+14991,1988,Republic of Ireland,Russia,1,1,Hanover,Germany,True
+14994,1988,Germany,Spain,2,0,Munich,Germany,False
+14997,1988,Italy,Denmark,2,0,Cologne,Germany,True
+14998,1988,England,Russia,1,3,Frankfurt am Main,Germany,True
+14999,1988,Republic of Ireland,Netherlands,0,1,Gelsenkirchen,Germany,True
+15004,1988,Germany,Netherlands,1,2,Hamburg,Germany,False
+15008,1988,Russia,Italy,2,0,Stuttgart,Germany,True
+15010,1988,Russia,Netherlands,0,2,Munich,Germany,True
+16977,1992,Sweden,France,1,1,Solna,Sweden,False
+16978,1992,Denmark,England,0,0,Malmö,Sweden,True
+16979,1992,Netherlands,Scotland,1,0,Gothenburg,Sweden,True
+16980,1992,Russia,Germany,1,1,Norrköping,Sweden,True
+16984,1992,France,England,0,0,Malmö,Sweden,True
+16988,1992,Sweden,Denmark,1,0,Solna,Sweden,False
+16989,1992,Netherlands,Russia,0,0,Gothenburg,Sweden,True
+16990,1992,Scotland,Germany,0,2,Norrköping,Sweden,True
+16992,1992,France,Denmark,1,2,Malmö,Sweden,True
+16993,1992,Sweden,England,2,1,Solna,Sweden,False
+16996,1992,Netherlands,Germany,3,1,Gothenburg,Sweden,True
+16997,1992,Scotland,Russia,3,0,Norrköping,Sweden,True
+17004,1992,Sweden,Germany,2,3,Solna,Sweden,False
+17008,1992,Netherlands,Denmark,2,2,Gothenburg,Sweden,True
+17012,1992,Denmark,Germany,2,0,Gothenburg,Sweden,True
+19641,1996,England,Switzerland,1,1,London,England,False
+19644,1996,Denmark,Portugal,1,1,Sheffield,England,True
+19645,1996,Germany,Czech Republic,2,0,Manchester,England,True
+19650,1996,Spain,Bulgaria,1,1,Leeds,England,True
+19654,1996,Netherlands,Scotland,0,0,Birmingham,England,True
+19655,1996,Romania,France,0,1,Newcastle,England,True
+19657,1996,Italy,Russia,2,1,Liverpool,England,True
+19658,1996,Turkey,Croatia,0,1,Nottingham,England,True
+19665,1996,Bulgaria,Romania,1,0,Newcastle,England,True
+19666,1996,Switzerland,Netherlands,0,2,Birmingham,England,True
+19668,1996,Czech Republic,Italy,2,1,Liverpool,England,True
+19671,1996,Portugal,Turkey,1,0,Nottingham,England,True
+19675,1996,England,Scotland,2,0,London,England,False
+19676,1996,France,Spain,1,1,Leeds,England,True
+19682,1996,Croatia,Denmark,3,0,Sheffield,England,True
+19687,1996,Russia,Germany,0,3,Manchester,England,True
+19696,1996,England,Netherlands,4,1,London,England,False
+19697,1996,France,Bulgaria,3,1,Newcastle,England,True
+19698,1996,Romania,Spain,1,2,Leeds,England,True
+19699,1996,Scotland,Switzerland,1,0,Birmingham,England,True
+19700,1996,Croatia,Portugal,0,3,Nottingham,England,True
+19701,1996,Italy,Germany,0,0,Manchester,England,True
+19704,1996,Russia,Czech Republic,3,3,Liverpool,England,True
+19705,1996,Turkey,Denmark,0,3,Sheffield,England,True
+19712,1996,England,Spain,0,0,London,England,False
+19713,1996,France,Netherlands,0,0,Liverpool,England,True
+19716,1996,Czech Republic,Portugal,1,0,Birmingham,England,True
+19717,1996,Germany,Croatia,2,1,Manchester,England,True
+19722,1996,England,Germany,1,1,London,England,False
+19723,1996,France,Czech Republic,0,0,Manchester,England,True
+19730,1996,Czech Republic,Germany,1,2,London,England,True
+22986,2000,Belgium,Sweden,2,1,Brussels,Belgium,False
+22992,2000,France,Denmark,3,0,Bruges,Belgium,True
+22996,2000,Netherlands,Czech Republic,1,0,Amsterdam,Netherlands,False
+22998,2000,Turkey,Italy,1,2,Arnhem,Netherlands,True
+23001,2000,Germany,Romania,1,1,Liège,Belgium,True
+23003,2000,Portugal,England,3,2,Eindhoven,Netherlands,True
+23004,2000,Serbia,Slovenia,3,3,Charleroi,Belgium,True
+23005,2000,Spain,Norway,0,1,Rotterdam,Netherlands,True
+23007,2000,Belgium,Italy,0,2,Brussels,Belgium,False
+23012,2000,Sweden,Turkey,0,0,Eindhoven,Netherlands,True
+23014,2000,Czech Republic,France,1,2,Bruges,Belgium,True
+23015,2000,Netherlands,Denmark,3,0,Rotterdam,Netherlands,False
+23017,2000,England,Germany,1,0,Charleroi,Belgium,True
+23023,2000,Romania,Portugal,0,1,Arnhem,Netherlands,True
+23030,2000,Norway,Serbia,0,1,Liège,Belgium,True
+23031,2000,Slovenia,Spain,1,2,Amsterdam,Netherlands,True
+23035,2000,Belgium,Turkey,0,2,Brussels,Belgium,False
+23036,2000,Italy,Sweden,2,1,Eindhoven,Netherlands,True
+23038,2000,England,Romania,2,3,Charleroi,Belgium,True
+23040,2000,Portugal,Germany,3,0,Rotterdam,Netherlands,True
+23041,2000,Denmark,Czech Republic,0,2,Liège,Belgium,True
+23042,2000,Netherlands,France,3,2,Amsterdam,Netherlands,False
+23045,2000,Serbia,Spain,3,4,Bruges,Belgium,True
+23046,2000,Slovenia,Norway,0,0,Arnhem,Netherlands,True
+23051,2000,Italy,Romania,2,0,Brussels,Belgium,True
+23053,2000,Turkey,Portugal,0,2,Amsterdam,Netherlands,True
+23059,2000,Netherlands,Serbia,6,1,Rotterdam,Netherlands,False
+23061,2000,Spain,France,1,2,Bruges,Belgium,True
+23064,2000,France,Portugal,2,1,Brussels,Belgium,True
+23072,2000,Netherlands,Italy,0,0,Amsterdam,Netherlands,False
+23084,2000,France,Italy,2,1,Rotterdam,Netherlands,True
+26633,2004,Portugal,Greece,1,2,Porto,Portugal,False
+26634,2004,Spain,Russia,1,0,Faro,Portugal,True
+26642,2004,France,England,2,1,Lisbon,Portugal,True
+26645,2004,Switzerland,Croatia,0,0,Leiria,Portugal,True
+26647,2004,Denmark,Italy,0,0,Guimarães,Portugal,True
+26649,2004,Sweden,Bulgaria,5,0,Lisbon,Portugal,True
+26650,2004,Czech Republic,Latvia,2,1,Aveiro,Portugal,True
+26651,2004,Germany,Netherlands,1,1,Porto,Portugal,True
+26653,2004,Greece,Spain,1,1,Porto,Portugal,True
+26654,2004,Portugal,Russia,2,0,Lisbon,Portugal,False
+26655,2004,Croatia,France,2,2,Leiria,Portugal,True
+26656,2004,England,Switzerland,3,0,Coimbra,Portugal,True
+26659,2004,Bulgaria,Denmark,0,2,Braga,Portugal,True
+26660,2004,Italy,Sweden,1,1,Porto,Portugal,True
+26667,2004,Latvia,Germany,0,0,Porto,Portugal,True
+26669,2004,Netherlands,Czech Republic,2,3,Aveiro,Portugal,True
+26685,2004,Portugal,Spain,1,0,Lisbon,Portugal,False
+26686,2004,Russia,Greece,2,1,Faro,Portugal,True
+26691,2004,Croatia,England,2,4,Lisbon,Portugal,True
+26694,2004,Switzerland,France,1,3,Coimbra,Portugal,True
+26695,2004,Denmark,Sweden,2,2,Porto,Portugal,True
+26696,2004,Italy,Bulgaria,2,1,Guimarães,Portugal,True
+26697,2004,Germany,Czech Republic,1,2,Lisbon,Portugal,True
+26700,2004,Netherlands,Latvia,3,0,Braga,Portugal,True
+26701,2004,Portugal,England,2,2,Lisbon,Portugal,False
+26702,2004,France,Greece,0,1,Lisbon,Portugal,True
+26705,2004,Sweden,Netherlands,0,0,Faro,Portugal,True
+26707,2004,Czech Republic,Denmark,3,0,Porto,Portugal,True
+26711,2004,Portugal,Netherlands,2,1,Lisbon,Portugal,False
+26712,2004,Greece,Czech Republic,1,0,Porto,Portugal,True
+26727,2004,Portugal,Greece,0,1,Lisbon,Portugal,False
+30281,2008,Portugal,Turkey,2,0,Geneva,Switzerland,True
+30285,2008,Switzerland,Czech Republic,0,1,Basel,Switzerland,False
+30291,2008,Austria,Croatia,0,1,Vienna,Austria,False
+30297,2008,Germany,Poland,2,0,Klagenfurt,Austria,True
+30311,2008,Netherlands,Italy,3,0,Berne,Switzerland,True
+30312,2008,Romania,France,0,0,Zürich,Switzerland,True
+30313,2008,Greece,Sweden,0,2,Salzburg,Austria,True
+30315,2008,Spain,Russia,4,1,Innsbruck,Austria,True
+30316,2008,Czech Republic,Portugal,1,3,Geneva,Switzerland,True
+30320,2008,Switzerland,Turkey,1,2,Basel,Switzerland,False
+30321,2008,Austria,Poland,1,1,Vienna,Austria,False
+30322,2008,Croatia,Germany,2,1,Klagenfurt,Austria,True
+30324,2008,Italy,Romania,1,1,Zürich,Switzerland,True
+30326,2008,Netherlands,France,4,1,Berne,Switzerland,True
+30333,2008,Greece,Russia,0,1,Salzburg,Austria,True
+30352,2008,Sweden,Spain,1,2,Innsbruck,Austria,True
+30376,2008,Switzerland,Portugal,2,0,Basel,Switzerland,False
+30378,2008,Turkey,Czech Republic,3,2,Geneva,Switzerland,True
+30380,2008,Austria,Germany,0,1,Vienna,Austria,False
+30381,2008,Poland,Croatia,0,1,Klagenfurt,Austria,True
+30383,2008,France,Italy,0,2,Zürich,Switzerland,True
+30384,2008,Netherlands,Romania,2,0,Berne,Switzerland,True
+30388,2008,Greece,Spain,1,2,Salzburg,Austria,True
+30390,2008,Russia,Sweden,2,0,Innsbruck,Austria,True
+30391,2008,Portugal,Germany,2,3,Basel,Switzerland,True
+30395,2008,Croatia,Turkey,1,1,Vienna,Austria,True
+30402,2008,Netherlands,Russia,1,3,Basel,Switzerland,True
+30436,2008,Spain,Italy,0,0,Vienna,Austria,True
+30440,2008,Germany,Turkey,3,2,Basel,Switzerland,True
+30441,2008,Russia,Spain,0,3,Vienna,Austria,True
+30443,2008,Germany,Spain,0,1,Vienna,Austria,True
+34137,2012,Poland,Greece,1,1,Warsaw,Poland,False
+34139,2012,Russia,Czech Republic,4,1,Wrocław,Poland,True
+34154,2012,Germany,Portugal,1,0,L'viv,Ukraine,True
+34158,2012,Netherlands,Denmark,0,1,Kharkiv,Ukraine,True
+34171,2012,Republic of Ireland,Croatia,1,3,Poznań,Poland,True
+34179,2012,Spain,Italy,1,1,Gdańsk,Poland,True
+34183,2012,France,England,1,1,Donets'k,Ukraine,True
+34184,2012,Ukraine,Sweden,2,1,Kyïv,Ukraine,False
+34190,2012,Greece,Czech Republic,1,2,Wrocław,Poland,True
+34199,2012,Poland,Russia,1,1,Warsaw,Poland,False
+34200,2012,Denmark,Portugal,2,3,L'viv,Ukraine,True
+34201,2012,Netherlands,Germany,1,2,Kharkiv,Ukraine,True
+34202,2012,Italy,Croatia,1,1,Poznań,Poland,True
+34203,2012,Spain,Republic of Ireland,4,0,Gdańsk,Poland,True
+34207,2012,Sweden,England,2,3,Kyïv,Ukraine,True
+34208,2012,Ukraine,France,0,2,Donets'k,Ukraine,False
+34211,2012,Greece,Russia,1,0,Warsaw,Poland,True
+34215,2012,Poland,Czech Republic,0,1,Wrocław,Poland,False
+34220,2012,Denmark,Germany,1,2,L'viv,Ukraine,True
+34221,2012,Portugal,Netherlands,2,1,Kharkiv,Ukraine,True
+34224,2012,Croatia,Spain,0,1,Gdańsk,Poland,True
+34225,2012,Italy,Republic of Ireland,2,0,Poznań,Poland,True
+34228,2012,Sweden,France,2,0,Kyïv,Ukraine,True
+34229,2012,Ukraine,England,0,1,Donets'k,Ukraine,False
+34230,2012,Czech Republic,Portugal,0,1,Warsaw,Poland,True
+34231,2012,Germany,Greece,4,2,Gdańsk,Poland,True
+34235,2012,Spain,France,2,0,Donets'k,Ukraine,True
+34236,2012,England,Italy,0,0,Kyïv,Ukraine,True
+34242,2012,Portugal,Spain,0,0,Donets'k,Ukraine,True
+34243,2012,Germany,Italy,1,2,Warsaw,Poland,True
+34249,2012,Spain,Italy,4,0,Kyïv,Ukraine,True
+38056,2016,France,Romania,2,1,Saint-Denis,France,False
+38057,2016,Albania,Switzerland,0,1,Lens,France,True
+38059,2016,England,Russia,1,1,Marseille,France,True
+38063,2016,Wales,Slovakia,2,1,Bordeaux,France,True
+38068,2016,Germany,Ukraine,2,0,Villeneuve-d'Ascq,France,True
+38071,2016,Poland,Northern Ireland,1,0,Nice,France,True
+38072,2016,Turkey,Croatia,0,1,Paris,France,True
+38073,2016,Belgium,Italy,0,2,Lyon,France,True
+38074,2016,Republic of Ireland,Sweden,1,1,Saint-Denis,France,True
+38077,2016,Spain,Czech Republic,1,0,Toulouse,France,True
+38082,2016,Austria,Hungary,0,2,Bordeaux,France,True
+38085,2016,Portugal,Iceland,1,1,Saint-Étienne,France,True
+38086,2016,France,Albania,2,0,Marseille,France,False
+38087,2016,Romania,Switzerland,1,1,Paris,France,True
+38088,2016,Russia,Slovakia,1,2,Villeneuve-d'Ascq,France,True
+38092,2016,England,Wales,2,1,Lens,France,True
+38093,2016,Germany,Poland,0,0,Saint-Denis,France,True
+38095,2016,Ukraine,Northern Ireland,0,2,Lyon,France,True
+38097,2016,Czech Republic,Croatia,2,2,Saint-Étienne,France,True
+38098,2016,Italy,Sweden,1,0,Toulouse,France,True
+38100,2016,Spain,Turkey,3,0,Nice,France,True
+38102,2016,Belgium,Republic of Ireland,3,0,Bordeaux,France,True
+38103,2016,Iceland,Hungary,1,1,Marseille,France,True
+38106,2016,Portugal,Austria,0,0,Lyon,France,True
+38109,2016,France,Switzerland,0,0,Villeneuve-d'Ascq,France,False
+38111,2016,Romania,Albania,0,1,Lyon,France,True
+38113,2016,Russia,Wales,0,3,Toulouse,France,True
+38114,2016,Slovakia,England,0,0,Saint-Étienne,France,True
+38115,2016,Croatia,Spain,2,1,Bordeaux,France,True
+38116,2016,Czech Republic,Turkey,0,2,Lens,France,True
+38119,2016,Northern Ireland,Germany,0,1,Paris,France,True
+38120,2016,Ukraine,Poland,0,1,Marseille,France,True
+38124,2016,Hungary,Portugal,3,3,Lyon,France,True
+38125,2016,Iceland,Austria,2,1,Saint-Denis,France,True
+38126,2016,Italy,Republic of Ireland,0,1,Villeneuve-d'Ascq,France,True
+38129,2016,Sweden,Belgium,0,1,Nice,France,True
+38131,2016,Croatia,Portugal,0,1,Lens,France,True
+38134,2016,Switzerland,Poland,1,1,Saint-Étienne,France,True
+38136,2016,Wales,Northern Ireland,1,0,Paris,France,True
+38139,2016,France,Republic of Ireland,2,1,Lyon,France,False
+38140,2016,Germany,Slovakia,3,0,Villeneuve-d'Ascq,France,True
+38141,2016,Hungary,Belgium,0,4,Toulouse,France,True
+38142,2016,England,Iceland,1,2,Nice,France,True
+38143,2016,Italy,Spain,2,0,Saint-Denis,France,True
+38145,2016,Poland,Portugal,1,1,Marseille,France,True
+38146,2016,Wales,Belgium,3,1,Villeneuve-d'Ascq,France,True
+38147,2016,Germany,Italy,1,1,Bordeaux,France,True
+38150,2016,France,Iceland,5,2,Saint-Denis,France,False
+38152,2016,Portugal,Wales,2,0,Lyon,France,True
+38153,2016,France,Germany,2,0,Marseille,France,False
+38154,2016,France,Portugal,0,1,Saint-Denis,France,False
